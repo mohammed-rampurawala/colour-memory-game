@@ -1,4 +1,3 @@
-
 Memory Game
 ===================================
 
@@ -26,6 +25,6 @@ Pre-requisites
 Screenshots
 -------------
 
-<img src="screenshots/game_screen.png" height="400" alt="Screenshot"/> 
-<img src="screenshots/score_screen.png" height="400" alt="Screenshot"/> 
-<img src="screenshots/start_screen.png" height="400" alt="Screenshot"/> 
+<img src="screenshot/game_screen.png" height="400" alt="Screenshot"/> 
+<img src="screenshot/score_screen.png" height="400" alt="Screenshot"/> 
+<img src="screenshot/start_screen.png" height="400" alt="Screenshot"/> 
