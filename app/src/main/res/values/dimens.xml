@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="score_size">30sp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="base_margin">16dp</dimen>
+    <dimen name="margine_top">150dp</dimen>
+    <dimen name="board_padding">10dp</dimen>
+    <dimen name="card_margin">10dp</dimen>
+    <dimen name="board_margin">16dp</dimen>
+    <dimen name="play_icon_width">60dp</dimen>
+    <dimen name="play_icon_height">60dp</dimen>
+    <dimen name="title_size">50sp</dimen>
+    <dimen name="base_padding">16dp</dimen>
+    <dimen name="margin_4">4dp</dimen>
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="name_text_size">16sp</dimen>
+    <dimen name="header_text_size">30sp</dimen>
+    <dimen name="margin_6">6dp</dimen>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="colour_ids">
+        <item>@drawable/colour1</item>
+        <item>@drawable/colour2</item>
+        <item>@drawable/colour3</item>
+        <item>@drawable/colour4</item>
+        <item>@drawable/colour5</item>
+        <item>@drawable/colour6</item>
+        <item>@drawable/colour7</item>
+        <item>@drawable/colour8</item>
+    </integer-array>
+
+    <integer-array name="avatar_array">
+        <item>@drawable/avatar_01</item>
+        <item>@drawable/avatar_02</item>
+        <item>@drawable/avatar_03</item>
+        <item>@drawable/avatar_04</item>
+        <item>@drawable/avatar_05</item>
+    </integer-array>
+</resources>

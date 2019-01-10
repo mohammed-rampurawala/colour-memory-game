@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Memory Game</string>
+    <string name="default_score">0</string>
+    <string name="app_logo">app_logo</string>
+    <string name="you_want_to_exit">Are you sure. You want to exit?</string>
+    <string name="in_middle_of_game">You will loose moves</string>
+    <string name="high_score">Scores</string>
+    <string name="restart">Restart</string>
+    <string name="save">Save</string>
+    <string name="enter_name">Enter name</string>
+    <string name="person_name">name</string>
+    <string name="you_won">Bravo</string>
+    <string name="leaderboard_title">Leaderboard</string>
+    <string name="no_data_available">Unable to get scores :(</string>
+    <string name="enter_name_hint">Please enter name</string>
+    <string name="thats_okay">That\'s okay</string>
+    <string name="check_iq">You need to check your IQ :D</string>
+    <string name="try_one_more_time">You should try one more time...</string>
+    <string name="somewhat_good">Somewhat GOOD</string>
+    <string name="gaining_iq">Ohhooo You are gaining IQ</string>
+    <string name="intelligent">You are intelligent :)</string>
+    <string name="bravo">Bravooooo!!!</string>
+    <string name="game_framgent_tag">game_fragment</string>
+</resources>
